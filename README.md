@@ -59,7 +59,6 @@ Main branches of mathematics
 * **Statistics**
 * **Computer Science**
 * **Mathematical Physics**
-* **
 
 ***
 
