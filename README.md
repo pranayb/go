@@ -35,8 +35,8 @@ Main branches of mathematics
 
 ***
 (1) Foundations
-* ** Mathematical Logic**
-* ** Modal Logic **
+* **Mathematical Logic**
+* **Modal Logic**
 
 ***
 (2) Quantity
