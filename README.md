@@ -1,46 +1,30 @@
-[Follow me on Twitter @clarecorthell](http://bit.ly/clarecorthelltwitter)
+[Follow me on Twitter @   ]
 
-Build Machine Learning applications with us at [Mattermark](http://www.mattermark.com/app/jobs)
-
-Email me at [github@clarecorthell.com](mailto:github@clarecorthell.com)
+Email me at [    ]
 
 ## The Open-Source Mathematics Degree
 
-The open-source curriculum for learning Mathematics. Foundational in both theory and technologies, the OSMD breaks down the core competencies necessary to understnad mathematics.
+The open-source curriculum for learning Mathematics. Foundations in theory, practice, history, and technologies, the OSMD breaks down the core competencies necessary to understand mathematics.
 
-### The Internet is Your Oyster
+### The Internet is a good place to start before heading to university
 
-With Coursera, ebooks, Stack Overflow, and GitHub -- all free and open -- how can you afford not to take advantage of an open source education?
+Resources to start with and finish on:
+Absolute no knowledge of mathematics--->Khan Academy--->PatrickJMT--->History of Mathematics(and notations)--->Foundations of Mathematics--->Standardized tests---> International Math Olympiad--->Numberphile videos--->Betterexplained.com--->Mathematics Software (propriety and opensource)--->Coursera---->MIT Opencourseware--->edX--->MathSciNet-->Google Scholar--->ArXiv--->Math Paper Publication--->Graduate degree in Mathematics at an elite university (with full funding).
+
 
 ### The Motivation
 
-We need more Data Scientists.
+We need more people who like to hang numbers on everything around the world. This way the manipulation of these numbers (hung on objects around the world) will provide everyone immense satisfaction, when new ideas emerge as they creatively play with these numbers. These ideas can then be codified into academic papers for the purposes of "collective learning" (please see wikipedia for defintion of this concept).
 
-> ...by 2018 the United States will experience a shortage of 190,000 skilled data scientists, and 1.5 million managers and analysts capable of reaping actionable insights from the big data deluge.
+### An Academic Problem
 
--- [McKinsey Report Highlights the Impending Data Scientist Shortage](http://bit.ly/datascienceshortage) 23 July 2013
-
-> There are little to no Data Scientists with 5 years experience, because the job simply did not exist.
-
--- David Hardtke [How To Hire A Data Scientist](http://bit.ly/howtohireadatascientist) 13 Nov 2012
-
-### An Academic Shortfall
-
-Classic academic conduits aren't providing Data Scientists -- this talent gap will be closed differently.
-
-> **Academic credentials are important but not necessary for high-quality data science.** The core aptitudes – curiosity, intellectual agility, statistical fluency, research stamina, scientific rigor, skeptical nature – that distinguish the best data scientists are widely distributed throughout the population.
-
-> We’re likely to see more uncredentialed, inexperienced individuals try their hands at data science, **bootstrapping their skills on the open-source ecosystem and using the diversity of modeling tools available.** Just as data-science platforms and tools are proliferating through the magic of open source, big data’s data-scientist pool will as well.
-
-> And there’s yet another trend that will alleviate any talent gap: the democratization of data science. While I agree wholeheartedly with Raden’s statement that “the crème-de-la-crème of data scientists will fill roles in academia, technology vendors, Wall Street, research and government,” I think he’s understating the extent to which **autodidacts – the self-taught, uncredentialed, data-passionate people – will come to play a significant role in many organizations’ data science initiatives.**
-
--- James Kobielus, [Closing the Talent Gap](http://bit.ly/closingthetalentgap) 17 Jan 2013
+Classic academic routes are reserved for those that are obsessed with mathematics. Some of us have other interests that we wish to combine with mathematics. This degree provides the flexibility to do mathematics along with other interests. Additionally, those who wish to pursue a professional research route can do so as well.
 
 ### Ready?
 
 ***
 
-## The Open Source Data Science Curriculum
+## The Open Source Mathematics Curriculum
 
 Start here.
 **Intro to Data Science** [UW / Coursera](http://bit.ly/uwintrodatascience)
