@@ -1,6 +1,6 @@
 [Follow me on Twitter @   ]
 
-Email me at [    ]
+Email me at [ ]
 
 ## The Open-Source Mathematics Degree
 
@@ -9,7 +9,7 @@ The open-source curriculum for learning Mathematics. Foundations in theory, prac
 ### The Internet is a good place to start before heading to university
 
 Resources to start with and finish on:
-Absolute no knowledge of mathematics--->Khan Academy--->PatrickJMT--->History of Mathematics(and notations)--->Foundations of Mathematics--->Standardized tests---> International Math Olympiad--->Numberphile videos--->Betterexplained.com--->Mathematics Software (propriety and opensource)--->Coursera---->MIT Opencourseware--->edX--->MathSciNet-->Google Scholar--->ArXiv--->Math Paper Publication--->Graduate degree in Mathematics at an elite university (with full funding).
+Absolute no knowledge of mathematics--->Khan Academy--->PatrickJMT--->History of Mathematics(and notations)--->Wikipedia--->Foundations of Mathematics--->Wikiversity (Math portal)--->Standardized tests (SAT,GMAT,GRE- quantitative section)---> International Math Olympiad--->Numberphile videos--->Betterexplained.com--->Mathematics Software (propriety and opensource)--->Coursera---->MIT Opencourseware--->edX--->MathSciNet-->Google Scholar--->ArXiv--->Math Paper Publication--->Graduate degree in Mathematics at an elite university (with full funding).
 
 
 ### The Motivation
