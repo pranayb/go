@@ -28,18 +28,29 @@ Classic academic routes are reserved for those that are obsessed with mathematic
 Main branches of mathematics
 ***
 (0) Philosophy
+* **Mathematics and reality: The philosophical connection-**
+* **Mathematics: Are there other languages used by nature besides mathematics?-**
+* **Mathematics: Understanding abstraction-**
+* **Mathematics: Is it discovered or invented?-**
 ***
 (1) Foundations
+* **Mathematical Logic**
+* ** **
 ***
 (2) Quantity
+* **Numbers**
 ***
 (3) Structure 
+* **Algebra**
 ***
 (4) Space
+* **Geometry**
 ***
 (5) Analysis
+* **Calculus**
 ***
 (6) Applied Mathematics
+* **Computer Science**
 ***
 
 
