@@ -34,9 +34,13 @@ Main branches of mathematics
 (2) Quantity
 ***
 (3) Structure 
+***
 (4) Space
+***
 (5) Analysis
+***
 (6) Applied Mathematics
+***
 
 
 
