@@ -14,7 +14,7 @@ Absolute no knowledge of mathematics--->Khan Academy--->PatrickJMT--->History of
 
 ### The Motivation
 
-We need more people who like to hang numbers on everything around the world. For example, you can hang numbers on temprature, pressure, etc. This way the manipulation of these numbers (hung on objects around the world) will provide everyone immense satisfaction, when new ideas emerge as they creatively play with these numbers. These ideas can then be codified into academic papers for the purposes of "collective learning" (please see wikipedia for definition of this concept).
+We need more people who like to hang numbers on everything around the world (like a 'Do not disturb' sign on a doorknob). For example, you can hang numbers on temprature, pressure, etc. This way the manipulation of these numbers (hung on objects around the world) will provide everyone immense satisfaction, when new ideas emerge as they creatively play with these numbers. These ideas can then be codified into academic papers for the purposes of "collective learning" (please see wikipedia for definition of this concept).
 
 ### An Academic Problem
 
