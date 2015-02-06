@@ -4,9 +4,9 @@ Build Machine Learning applications with us at [Mattermark](http://www.mattermar
 
 Email me at [github@clarecorthell.com](mailto:github@clarecorthell.com)
 
-## The Open-Source Data Science Masters
+## The Open-Source Mathematics Degree
 
-The open-source curriculum for learning Data Science. Foundational in both theory and technologies, the OSDSM breaks down the core competencies necessary to make data useful.
+The open-source curriculum for learning Mathematics. Foundational in both theory and technologies, the OSMD breaks down the core competencies necessary to understnad mathematics.
 
 ### The Internet is Your Oyster
 
