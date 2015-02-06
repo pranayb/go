@@ -26,7 +26,7 @@ Classic academic routes are reserved for those that are obsessed with mathematic
 
 ## The Open Source Mathematics Curriculum
 Main branches of mathematics
-
+***
 (0) Philosophy
 ***
 (1) Foundations
