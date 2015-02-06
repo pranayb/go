@@ -28,8 +28,11 @@ Classic academic routes are reserved for those that are obsessed with mathematic
 Main branches of mathematics
 
 (0) Philosophy
+***
 (1) Foundations
+***
 (2) Quantity
+***
 (3) Structure 
 (4) Space
 (5) Analysis
