@@ -36,14 +36,14 @@ Main branches of mathematics
 ***
 (1) Foundations
 * **(i)Mathematical Logic**
-* ***Modal Theory***
-* ***Proof Theory***
-* ***Recursion Theory***
+* ***-Modal Theory***
+* ***-Proof Theory***
+* ***-Recursion Theory***
 * **(ii)Set Theory**
 * **(iii)Theoretical Computer Science**
-* ***Computability Theory***
-* ***Computational Complexity Theory***
-* ***Information Theory***
+* ***-Computability Theory***
+* ***-Computational Complexity Theory***
+* **-Information Theory**
 * **(iv)Category Theory**
 
 ***
@@ -73,18 +73,18 @@ Main branches of mathematics
 ***
 (4) Space
 * **Geometry**
-* ***Convex Geometry***
-* ***Discrete Geometry***
+* **-Convex Geometry**
+* **-Discrete Geometry**
 * **Trigonometry**
 * **Differential Geometry**
 * **Topology**
-* ***Point-set Topology***
-* ***Set-theoretic Topology***
-* ***Algebraic Topology***
-* ***Differential Topology***
-* ***Axiomatic Set Theory***
-* ***Homotopy Theory***
-* ***Morse Theory***
+* **-Point-set Topology**
+* **-Set-theoretic Topology**
+* **-Algebraic Topology**
+* **-Differential Topology**
+* **-Axiomatic Set Theory**
+* **-Homotopy Theory**
+* **-Morse Theory**
 * **Fractal Geometry**
 * **Measure Theory**
 
