@@ -36,21 +36,29 @@ Main branches of mathematics
 ***
 (1) Foundations
 * **(i)Mathematical Logic**
-* ****Modal Theory****
-* ****Proof Theory****
-* ****Recursion Theory****
-* **(ii)Category Theory**
+* ***Modal Theory***
+* ***Proof Theory***
+* ***Recursion Theory***
+* **(ii)Set Theory **
 * **(iii)Theoretical Computer Science**
-* ****Computability Theory****
-* ****Computational Complexity Theory****
-* ****Information Theory****
+* ***Computability Theory***
+* ***Computational Complexity Theory***
+* ***Information Theory***
+* **(iv)Category Theory**
 
 ***
 (2) Quantity
-* **(i)Integers**
-* **(ii)**
-* **(iii)Numbers**
-* **(iv)Numbers**
+* **(i)Natural Numbers**
+* **(ii)Integers**
+* **(iii)Rational Numbers**
+* **(iv)Real Numbers**
+* **(v)Complex Numbers**
+* **(vi)Hyperreal Numbers**
+* **(vii)Hypercomplex Numbers**
+* **(vii)Quaternions**
+* **(viii)Octonions**
+* **(vi)Surreal Numbers**
+* **(vii)Surcomplex Numbers**
 
 ***
 (3) Structure 
