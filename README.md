@@ -14,7 +14,7 @@ Absolute no knowledge of mathematics--->Khan Academy--->PatrickJMT--->History of
 
 ### The Motivation
 
-We need more people who like to hang numbers on everything around the world (like a 'Do not disturb' sign on a doorknob). For example, you can hang numbers on temprature, pressure, etc. Eventually, the manipulation of these numbers (hung on objects around the world) will provide everyone immense satisfaction, when new ideas emerge as they creatively play with these numbers. These ideas can then be codified into academic papers for the purposes of "collective learning" (please see wikipedia for definition of this concept).
+We need more people who like to hang numbers on everything around the world (like a 'Do not disturb' sign on a doorknob). For example, you can hang numbers on temprature, pressure, etc. Eventually, the manipulation of these numbers (hung on objects around the world) will provide everyone immense satisfaction, when new ideas emerge as they creatively play with these numbers. Application of mathematics to the real world is called Applied Mathematics. Whereas studying abstract mathematics for its own sake is categorized as Pure Mathematics, it must be noted that there is much overlap between these two categories. These pure and applied mathematical ideas can then be codified into academic papers for the purposes of "collective learning" (please see wikipedia for definition of this concept).
 
 ### An Academic Problem
 
@@ -28,19 +28,22 @@ Classic academic routes are reserved for those that are obsessed with mathematic
 Main branches of mathematics
 ***
 (0) Philosophy
-* **Mathematics and reality: The philosophical connection-**
-* **Mathematics: Are there other languages used by nature besides mathematics?-**
-* **Mathematics: Understanding abstraction-**
-* **Mathematics: Is it discovered or invented?-**
+* **(i)Mathematics and reality: The philosophical connection-**
+* **(ii)Mathematics: Are there other languages used by nature besides mathematics?-**
+* **(iii)Mathematics: Understanding abstraction-**
+* **(iv)Mathematics: Is it discovered or invented?-**
 
 ***
 (1) Foundations
-* **Mathematical Logic**
-* **Modal Logic**
+* **(i)Mathematical Logic**
+* **(ii)Modal Logic**
 
 ***
 (2) Quantity
-* **Numbers**
+* **(i)Integers**
+* **(ii)**
+* **(iii)Numbers**
+* **(iv)Numbers**
 
 ***
 (3) Structure 
