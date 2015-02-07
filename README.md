@@ -39,7 +39,7 @@ Main branches of mathematics
 * ***Modal Theory***
 * ***Proof Theory***
 * ***Recursion Theory***
-* **(ii)Set Theory **
+* **(ii)Set Theory**
 * **(iii)Theoretical Computer Science**
 * ***Computability Theory***
 * ***Computational Complexity Theory***
@@ -62,21 +62,60 @@ Main branches of mathematics
 
 ***
 (3) Structure 
-* **Algebra**
+* **Elementary Algebra**
+* **Modern Algebra**
+* **Number Theory**
+* **Group Theory**
+* **Graph Theory**
+* **Order Theory**
+* **Combinatorics**
 
 ***
 (4) Space
 * **Geometry**
+* ***Convex Geometry**
+* ***Discrete Geometry**
+* **Trigonometry**
+* **Differential Geometry**
+* **Topology**
+* ***Point-set Topology***
+* ***Set-theoretic Topology***
+* ***Algebraic Topology***
+* ***Differential Topology***
+* ***Axiomatic Set Theory***
+* ***Homotopy Theory***
+* ***Morse Theory***
+* **Fractal Geometry**
+* **Measure Theory**
+
 
 ***
 (5) Analysis
 * **Calculus**
+* **Vector Calculus**
+* **Differential Equations**
+* **Dynamical Systems**
+* **Functional Analysis**
+* **Chaos Theory**
+* **Complex Analysis**
 
 ***
 (6) Applied Mathematics
 * **Statistics**
-* **Computer Science**
+* **Probability Theory**
+* **Numerical Analysis**
+* **Fluid Dynamics**
+* **Optimization**
+* **Cryptography**
+* **Game Theory**
+* **Control Theory**
 * **Mathematical Physics**
+* **Mathematical Chemistry**
+* **Mathematical Biology**
+* **Mathematical Finance**
+* **Mathematical Economics**
+
+
 
 ***
 
