@@ -75,7 +75,31 @@ Main branches of mathematics
 ***
 (3) Structure 
 * **Elementary Algebra**
+*   Physical courses: ,
+*   Online courses($): ,
+*   Online courses(OS): ,
+*   Course notes($): ,
+*   Course notes(OS): ,
+*   Text books ($): ,
+*   Text books (OS): ,
+*   Softwares ($): ,
+*   Softwares (OS): ,
+*   Verified cetificate(s): ,
+*   Traditional course for degree(s): ,
+*   Accreditation bodies: 
 * **Modern Algebra**
+*   Physical courses: ,
+*   Online courses($): ,
+*   Online courses(OS): ,
+*   Course notes($): ,
+*   Course notes(OS): ,
+*   Text books ($): ,
+*   Text books (OS): ,
+*   Softwares ($): ,
+*   Softwares (OS): ,
+*   Verified cetificate(s): ,
+*   Traditional course for degree(s): ,
+*   Accreditation bodies: 
 * **Number Theory**
 * **Group Theory**
 * **Graph Theory**
@@ -85,6 +109,18 @@ Main branches of mathematics
 ***
 (4) Space
 * **Geometry**
+*   Physical courses: ,
+*   Online courses($): ,
+*   Online courses(OS): ,
+*   Course notes($): ,
+*   Course notes(OS): ,
+*   Text books ($): ,
+*   Text books (OS): ,
+*   Softwares ($): ,
+*   Softwares (OS): ,
+*   Verified cetificate(s): ,
+*   Traditional course for degree(s): ,
+*   Accreditation bodies: 
 * **-Convex Geometry**
 * **-Discrete Geometry**
 * **Trigonometry**
@@ -104,6 +140,18 @@ Main branches of mathematics
 ***
 (5) Analysis
 * **Calculus**
+*   Physical courses: ,
+*   Online courses($): ,
+*   Online courses(OS): ,
+*   Course notes($): ,
+*   Course notes(OS): ,
+*   Text books ($): ,
+*   Text books (OS): ,
+*   Softwares ($): ,
+*   Softwares (OS): ,
+*   Verified cetificate(s): ,
+*   Traditional course for degree(s): ,
+*   Accreditation bodies: 
 * **Vector Calculus**
 * **Differential Equations**
 * **Dynamical Systems**
@@ -114,6 +162,18 @@ Main branches of mathematics
 ***
 (6) Applied Mathematics
 * **Statistics**
+*   Physical courses: ,
+*   Online courses($): ,
+*   Online courses(OS): ,
+*   Course notes($): ,
+*   Course notes(OS): ,
+*   Text books ($): ,
+*   Text books (OS): ,
+*   Softwares ($): ,
+*   Softwares (OS): ,
+*   Verified cetificate(s): ,
+*   Traditional course for degree(s): ,
+*   Accreditation bodies: 
 * **Probability Theory**
 * **Numerical Analysis**
 * **Fluid Dynamics**
