@@ -36,18 +36,18 @@ Main branches of mathematics
 ***
 (1) Foundations
 * **(i)Mathematical Logic**
-* Physical courses: ,
-* Online courses($): ,
-* Online courses(OS): ,
-* Course notes($): ,
-* Course notes(OS): ,
-* Text books ($): ,
-* Text books (OS): ,
-* Softwares ($): ,
-* Softwares (OS): ,
-* Verified cetificate(s): ,
-* Traditional course for degree(s): ,
-* Accreditation bodies: .
+*   Physical courses: ,
+*   Online courses($): ,
+*   Online courses(OS): ,
+*   Course notes($): ,
+*   Course notes(OS): ,
+*   Text books ($): ,
+*   Text books (OS): ,
+*   Softwares ($): ,
+*   Softwares (OS): ,
+*   Verified cetificate(s): ,
+*   Traditional course for degree(s): ,
+*   Accreditation bodies: .
 * ***-Modal Theory***
 * ***-Proof Theory***
 * ***-Recursion Theory***
