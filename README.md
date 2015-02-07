@@ -39,10 +39,14 @@ Main branches of mathematics
 *   Physical courses: ,
 *   Online courses($): ,
 *   Online courses(OS): ,
-*   Course notes($): ,
-*   Course notes(OS): ,
+*   Course notes by instructor($): ,
+*   Course notes by instructor(OS): ,
 *   Text books ($): ,
 *   Text books (OS): ,
+*   Course notes by past student($):
+*   Course notes by past student(OS):
+*   Academic Papers database($):
+*   Academic Papers database(OS):
 *   Softwares ($): ,
 *   Softwares (OS): ,
 *   Verified cetificate(s): ,
