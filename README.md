@@ -98,7 +98,7 @@ Main branches of mathematics
 *   Course notes($): ,
 *   Course notes(OS): ,
 *   Text books ($): ,
-*   Text books (OS): ,
+*   Text books (OS): http://en.wikibooks.org/wiki/Abstract_Algebra,
 *   Softwares ($): ,
 *   Softwares (OS): ,
 *   Verified cetificate(s): ,
